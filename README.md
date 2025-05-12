@@ -1,69 +1,44 @@
-# Welcome to your Lovable project
+# 🎬 AIVideoSummary – AI-Powered Video Transcription & Summarization
 
-## Project info
+**Website:** [https://aivideosummary.com](https://aivideosummary.com)
 
-**URL**: https://lovable.dev/projects/e61dcc54-c77f-4bd1-877a-250f3bb0b642
+AIVideoSummary is an AI-powered platform that helps creators, professionals, and teams convert videos into accurate **transcriptions**, **summaries**, and **subtitles**—all in a matter of seconds.
 
-## How can I edit this code?
+🔒 Built with privacy in mind. No files are stored. All data is processed temporarily and securely.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 What It Offers
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e61dcc54-c77f-4bd1-877a-250f3bb0b642) and start prompting.
+- 🎙️ AI transcription using OpenAI Whisper  
+- 📝 Summarization powered by Facebook BART  
+- 🌍 Multilingual support  
+- 📄 Real SRT subtitle generation  
+- 🎯 Clean, fast interface (built with React + Vite + Tailwind)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 👇 Try It Live
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🔗 **Visit Now**: [https://aivideosummary.com](https://aivideosummary.com)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ⚙️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Python (Flask backend)
+- OpenAI Whisper + Facebook BART
+- React + TypeScript (frontend)
+- Vite, TailwindCSS, shadcn-ui
+- Hosted on Contabo VPS
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💬 About the Developer
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Made with care by [Ankur](https://github.com/ankurclub).  
+For collaboration, feel free to [contact me](https://aivideosummary.com/contact).
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e61dcc54-c77f-4bd1-877a-250f3bb0b642) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+⭐ Star this profile to support the project!
